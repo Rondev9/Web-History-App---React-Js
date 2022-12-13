@@ -1,0 +1,32 @@
+.historyContainer {
+  display: flex;
+}
+.historyDetailsContainer {
+  display: flex;
+  font-family: 'Roboto';
+  width: 100%;
+}
+.historyTime {
+  margin-right: 70px;
+  color: #475569;
+  font-weight: bold;
+}
+.historyWebLogo {
+  height: 25px;
+  width: 25px;
+  align-self: center;
+  margin-right: 30px;
+}
+.historyTitle {
+  color: #475569;
+  font-weight: bold;
+  margin-right: 15px;
+}
+.domainUrl {
+  color: #64748b;
+}
+.deleteIcon {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+}
